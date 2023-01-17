@@ -6,7 +6,7 @@
 
   :cherry_blossom: Here is a little bit about me!
 
-- :airplane: I’m currently a international student and I am studying **Info. Systems and Technology**
+- :airplane: I’m currently a international student and I am currently studying *Info. Systems and Technology*
 - 🌱 I’m currently learning how to improve my English and programming skills.
 - 💬 You can ask me whatever you want about video games.
 - :video_game: My favorite video games right now are: Valorant, Rockect League and The Last of Us.
