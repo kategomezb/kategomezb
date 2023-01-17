@@ -1,6 +1,4 @@
-### Hola everyone, My name is Katerine but you can call me Kate! :relaxed:
-
-<h3 align="center">A passionate gamer from Colombia</h3>
+### Hola everyone :wave:, My name is Katerine but you can call me Kate! :relaxed:
 <img aling="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.7084c682f10716fcaf0469b550a92b6a?rik=nyAIGnD0kqbvBA&riu=http%3a%2f%2f24.media.tumblr.com%2f7587d35b2362777783a4164160a3d58e%2ftumblr_mq386vyfgl1qii0lzo1_500.gif&ehk=l4JGnh0tOqucmXmYJZPmhPCDPENXca49HROLrbfx0HE%3d&risl=&pid=ImgRaw&r=0"> 
 <!
 
@@ -16,6 +14,11 @@
 - 📫 How to reach me: kathegomez0756@gmail.com
 >
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/kategomez#2284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kategomez#2284" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
