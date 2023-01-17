@@ -4,12 +4,12 @@
 
   :cherry_blossom: Here is a little bit about me!
 
-- :airplane: I am currently a international student and I am currently studying *Info. Systems and Technology*
-- 🌱 I am currently learning how to improve my English and programming skills.
+- :airplane: I am an international student and I am currently studying *Info. Systems and Technology*
+- 🌱 Something that I am learning is how to improve my English and programming skills.
 - 💬 You can ask me whatever you want about video games.
 - :video_game: My favorite video games right now are: Valorant, Rockect League and The Last of Us.
-- :dog: I love animals in general but I love dogs. 
-- :soccer: I am a soccer fan and my favorite team is Real Madrid. 
+- :dog: I love animals in general but I love dogs the most. 
+- :soccer: I am a soccer fan since I was 6 years old and my favorite team is Real Madrid. 
 - :camera: I am really into photography and recently I started my collection of instant cameras.
 - 📫 How to reach me: kathegomez0756@gmail.com
 >
