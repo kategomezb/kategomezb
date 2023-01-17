@@ -1,5 +1,5 @@
 ### Hola everyone :wave:, My name is Katerine but you can call me Kate! :relaxed:
-<img aling="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.7084c682f10716fcaf0469b550a92b6a?rik=nyAIGnD0kqbvBA&riu=http%3a%2f%2f24.media.tumblr.com%2f7587d35b2362777783a4164160a3d58e%2ftumblr_mq386vyfgl1qii0lzo1_500.gif&ehk=l4JGnh0tOqucmXmYJZPmhPCDPENXca49HROLrbfx0HE%3d&risl=&pid=ImgRaw&r=0"> 
+<img aling="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=TMF69je6zBrb4w&riu=http%3a%2f%2fwww.cartoonbucket.com%2fwp-content%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif&ehk=%2fuUhMW1M7LTRIvXg8OWTKCR1n9IoWkNK1igokCXhBkE%3d&risl=&pid=ImgRaw&r=0"> 
 <!
 
   :cherry_blossom: Here is a little bit about me!
