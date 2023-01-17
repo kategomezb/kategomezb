@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola everyone, My name is Katerine but you can call me Kate! :relaxed:
 
 <!--
 **kategomezb/kategomezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
