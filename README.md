@@ -7,7 +7,7 @@
 - :airplane: I am an international student and I am currently studying *Info. Systems and Technology*
 - 🌱 Something that I am learning is how to improve my English and programming skills.
 - 💬 You can ask me whatever you want about video games.
-- :video_game: My favorite video games right now are: Valorant, Rockect League and The Last of Us.
+- :video_game: My favorite video games right now are: Valorant, Rocket League and The Last of Us.
 - :dog: I love animals in general but I love dogs the most. 
 - :soccer: I am a soccer fan since I was 6 years old and my favorite team is Real Madrid. 
 - :camera: I am really into photography and recently I started my collection of instant cameras.
